@@ -1,4 +1,4 @@
-# inpainting
+# Inpainting
 Inpainting using LASSO regression.
 
 Applying the Lasso regression to image inpainting.
